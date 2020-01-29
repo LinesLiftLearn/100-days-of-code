@@ -3,11 +3,11 @@
 ### Day 0: January 29th, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed, "Basic HTML and HTML5" on [freecodecamp.org](https://freecodecamp.org/learn)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The review went very well. HTML is quickly coming back to me and I am excited to take, "Basic CSS," tomorrow so I can continue to build a foundation in webdev!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Basis HTML and HTML5 Certificates](https://www.freecodecamp.org/linesliftlearn)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
