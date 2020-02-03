@@ -19,12 +19,41 @@
 **Link(s) to work**: [Basic CSS completion](https://www.freecodecamp.org/linesliftlearn)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 31st, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on Applied visual design.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Really enjoying the new routine! 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+### Day 3: February 1st, 2020
+
+**Today's Progress**: I've gone through many exercises on Applied visual design.
+
+**Thoughts** I was able to sneak in an hour, despite a very busy day and limited access to a computer!
+
+**Link(s) to work**
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+### Day 4: February 2nd, 2020
+
+**Today's Progress**: I've gone through many exercises on Applied visual design.
+
+**Thoughts** Did a lot of reading and learned a lot!
+
+**Link(s) to work**
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+
+### Day 5: February 3rd, 2020
+
+**Today's Progress**: I've gone through many exercises and completed Applied Visual design, Applied accesibility, Responsive Web Design Priciples, and CSS flex box
+
+**Thoughts** I'm proud I was able to get so much done today.
+
+**Link(s) to work**
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+
