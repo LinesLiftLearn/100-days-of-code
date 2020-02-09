@@ -37,6 +37,7 @@
 **Link(s) to work**
 1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
 
+
 ### Day 4: February 2nd, 2020
 
 **Today's Progress**: I've gone through many exercises on Applied visual design.
@@ -56,4 +57,29 @@
 **Link(s) to work**
 1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
 
+### Day 6: February 4th, 2020
 
+**Today's Progress**: I've gone through many exercises and completed Applied Visual design, Applied accesibility, Responsive Web Design Priciples, and CSS flex box
+
+**Thoughts** I'm proud I was able to get so much done today.
+
+**Link(s) to work**
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+### Day 7: February 5th, 2020
+
+**Today's Progress**: I continued working on project 1 of Responsive web design on freecodecamp.org.
+
+**Thoughts** Learning the difficulties of programming :). I am learning how to learn and excited to see progree daily.
+
+**Link(s) to work**
+1. [LLL profile on freecodecamp](https://www.freecodecamp.org/linesliftlearn)
+
+### Day 8: February 8th, 2020
+
+**Today's Progress**: I completed project 1 - design a tribute page on freecodecamp.org. I also began and complete approx. 80% of project 2, design a survey form. 
+
+**Thoughts** I completed my first project today and I am very proud!
+
+**Link(s) to work**
+1. [Responsive Web Design Project 2 - Survey Form](https://codepen.io/amtaylr1/pen/oNXgyOM)
