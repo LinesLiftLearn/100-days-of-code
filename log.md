@@ -83,3 +83,13 @@
 
 **Link(s) to work**
 1. [Responsive Web Design Project 2 - Survey Form](https://codepen.io/amtaylr1/pen/oNXgyOM)
+
+
+### Day 9: February 9th, 2020
+
+**Today's Progress**: I completed 2 additional projects for the freecodecamp.org Responsive web design certiifcation. I have two projects remaining and I will have the responsive web design certification!!! 
+
+**Thoughts** I completed two additional projects and learned so much along the way. I am starting to get the hang of HTML and CSS and want to learn best practices for writing. Best practices include, optimum accessibility, correct formatting in HTML (indentation, parents, etc.), and div. 
+
+**Link(s) to work**
+1. [Responsive Web Design Project 2 - Survey Form](https://codepen.io/amtaylr1/pen/oNXgyOM)
